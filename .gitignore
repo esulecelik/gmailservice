@@ -1,0 +1,5 @@
+# Git tarafından takip edilmesini istemediğim dosyaları belirdiyorum.
+oauth2client.json
+tokens.json
+__pycache__
+env
